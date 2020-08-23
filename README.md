@@ -1,6 +1,6 @@
 # Flutter Fruits UI Project
 
-I make this project to learn more about widgets in flutter.
+I made this project to learn more about widgets in flutter.
 
 ![](prototype.png)
 
