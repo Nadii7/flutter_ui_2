@@ -1,11 +1,11 @@
-# Flutter UI Project
+# Flutter Fruits UI Project
 
-I make this project to learn more about widget in flutter.
+I make this project to learn more about widgets in flutter.
 
 ![](prototype.png)
 
 
-# in this project i learned How to deal with:
+# In this project I learned How to deal with:
 
 - List of Map.
 
