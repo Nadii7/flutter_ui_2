@@ -2,7 +2,7 @@
 
 I make this project to learn more about widget in flutter.
 
-![](gem.png)
+![](prototype.png)
 
 
 # in this project i learned How to deal with:
